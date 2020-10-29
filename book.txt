@@ -1,0 +1,4 @@
+Hello My name is Nguyen
+This my my first semester at CSULB
+This is an example for book.txt
+Sphinx of black quartz, judge my vow
